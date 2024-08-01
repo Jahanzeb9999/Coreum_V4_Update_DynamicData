@@ -38,4 +38,4 @@ Before attending the workshop, please ensure you have the following:
 2. **Clone the Repository:**
    ```bash
    https://github.com/Jahanzeb9999/workshops.git   
-  cd Coreum_V4_Update_DynamicData
+   cd Coreum_V4_Update_DynamicData
