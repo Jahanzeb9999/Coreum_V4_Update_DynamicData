@@ -36,5 +36,17 @@ Before attending the workshop, please ensure you have the following:
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Jahanzeb9999/Cosmwasm-FullStack.git
-   cd Cosmwasm-FullStack/backend
+   git clone https://github.com/Jahanzeb9999/workshops.git   
+   cd Coreum_V4_UPDATE_DynamicData/FullStack-DynamicData/
+   ```
+
+3. **Run the Backend:**
+   ```bash
+   cd create-nft
+   go run main.go
+   ```
+
+4. **Run the Frontend:**
+   ```bash
+   npm run start
+   ```

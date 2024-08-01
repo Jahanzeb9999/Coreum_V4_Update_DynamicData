@@ -1,4 +1,6 @@
 # Dynamic Data Workshop
+![WebappUI](./public/update.png)
+
 
 ## Workshop Overview
 
@@ -29,8 +31,12 @@ Before attending the workshop, please ensure you have the following:
 
 To get started with the workshop, clone this repository and install the dependencies:
 
-```bash
-git clone https://github.com/your-repo/bootstrap-webapp-development-workshop.git
-cd bootstrap-webapp-development-workshop
-npm install
-npm run dev
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/Jahanzeb9999/workshops.git   
+   cd Coreum_V4_UPDATE_DynamicData/Cosmwasm-FullStack
+   ```
+2. **Run the FrontEnd:**
+   ```bash
+   npm run dev
+   ```
