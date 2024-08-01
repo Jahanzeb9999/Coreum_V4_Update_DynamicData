@@ -28,7 +28,7 @@ import (
 )
 
 const (
-	senderMnemonic = "rough olympic update gloom play squirrel license pride cup hazard onion effort"
+	senderMnemonic = "your menmomic address"
 	chainID        = constant.ChainIDTest
 	addressPrefix  = constant.AddressPrefixTest
 	nodeAddress    = "full-node.testnet-1.coreum.dev:9090"
